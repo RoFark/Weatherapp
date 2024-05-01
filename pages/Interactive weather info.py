@@ -26,7 +26,7 @@ st.title("Weather Forecast with Interactive Map")
 owm = pyowm.OWM("569c216171a436cd3f04d77e39f100be")
 mgr = owm.weather_manager()
 # Select location
-file = "/Users/rosie.farkash/Desktop/Streamlit FE/pages/worldcities.csv"  # Adjust path as necessary
+file = "pages/worldcities.csv"  # Adjust path as necessary
 data = pd.read_csv(file, dtype=object)
 country_set = set(data["country"])
 country = st.selectbox('Select a country', options=country_set)
