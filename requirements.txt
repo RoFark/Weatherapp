@@ -14,7 +14,7 @@ datetime
 pyown
 pytz
 folium
-from streamlit_folium
+streamlit_folium
 selenium
 selenium.webdriver.chrome.options
 selenium.webdriver.common.by 
