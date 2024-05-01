@@ -1,0 +1,25 @@
+geemap
+streamlit
+ee
+streamlit_folium
+requests
+bs4
+BeautifulSoup
+time
+streamlit_lottie
+pandas
+os
+io
+datetime
+pyown
+pytz
+folium
+from streamlit_folium
+selenium
+selenium.webdriver.chrome.options
+selenium.webdriver.common.by 
+matplotlib
+plotly
+streamlit_option_menu
+PIL
+dateutil.relativedelta
