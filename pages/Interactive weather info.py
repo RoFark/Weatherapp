@@ -47,7 +47,7 @@ weather_desc = weather.detailed_status
 # Determine weather condition and select cartoon image
 def get_weather_image():
     if "rain" in weather_desc.lower():
-        return "rain.png"
+        return "rain.jpeg"
     elif "cloud" in weather_desc.lower():
         return "cloud.png"
     else:
